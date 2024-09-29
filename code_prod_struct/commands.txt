@@ -1,0 +1,8 @@
+python -m streamlit run src/python/main.py
+
+installations :
+
+pip install streamlit
+pip install streamlit-aggrid
+
+cmake -DCMAKE_PREFIX_PATH=/matieres/5MMPCPD/pnl ..
